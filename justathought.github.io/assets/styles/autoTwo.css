@@ -256,11 +256,11 @@
   }
   .magnifyingGlass
   {
-    background: url(/uploads/ResourceImage/magnifyingGlassCopy2.png);
+    background-image: url("/uploads/ResourceImage/magnifyingGlassCopy2.png");
   }
   .noGlass
   {
-    background: url(/uploads/ResourceImage/xButton-removebg-preview.png);
+    background-image: url("/uploads/ResourceImage/xButton-removebg-preview.png");
     background-size: 55px;
   }
 .column
